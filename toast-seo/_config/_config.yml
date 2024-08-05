@@ -1,0 +1,10 @@
+---
+Name: toastseo
+After: 'framework/*','cms/*'
+---
+SiteTree:
+  extensions:
+    - ToastSEO
+SiteConfig:
+  extensions:
+    - ToastSEOSiteConfigExtension
